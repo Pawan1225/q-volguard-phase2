@@ -56,27 +56,19 @@ Additional assets can be incorporated through the same pipeline.
 │   .gitignore
 │   README.md
 │
-├───assets
-│   ├───figures
-│   └───tables
-│
-├───data
-│   └───README.md
 │
 ├───docs
-│   ├───fujitsu
-│   │       Q_VolGuard_Fujitsu_Report.pdf
-│   │
-│   └───supplementary
-│
+│   ├───Q_VolGuard_Fujitsu_Report.pdf
+│        
+│   
+│   
 ├───outputs
 │   ├───figures
 │   ├───metrics
 │   └───results
 │
 ├───src
-│
-└───tests
+
 ```
 
 ---
