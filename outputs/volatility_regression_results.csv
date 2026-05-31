@@ -1,0 +1,10 @@
+symbol,model,rmse
+SPY,Random Forest Regressor,0.001373514763658663
+SPY,ESN + Ridge Readout,0.0028408971170548903
+SPY,QRC-inspired 9Q + Ridge Readout,0.003161309724231002
+QQQ,Random Forest Regressor,0.001762702589615534
+QQQ,ESN + Ridge Readout,0.002879965124986956
+QQQ,QRC-inspired 9Q + Ridge Readout,0.00360512372973577
+DIA,Random Forest Regressor,0.0012175582765604472
+DIA,ESN + Ridge Readout,0.0031461157982385184
+DIA,QRC-inspired 9Q + Ridge Readout,0.003510015454679984

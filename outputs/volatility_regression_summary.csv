@@ -1,0 +1,4 @@
+model,rmse
+Random Forest Regressor,0.0014512585432782147
+ESN + Ridge Readout,0.0029556593467601217
+QRC-inspired 9Q + Ridge Readout,0.0034254829695489187
